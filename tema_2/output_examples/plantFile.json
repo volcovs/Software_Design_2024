@@ -1,0 +1,11 @@
+[
+ { "id": "1", "name": "lalea", "species": "tulipa gesneriana", "type": "magnoliophyta", "carnivorous": "no", "endangered": "no", "location": "right entrance" },
+ { "id": "2", "name": "trandafir", "species": "rosa chinensis", "type": "magnoliophyta", "carnivorous": "no", "endangered": "no", "location": "left entrance" },
+ { "id": "3", "name": "capcana lui Venus", "species": "dionaea muscipula", "type": "magnoliophyta", "carnivorous": "yes", "endangered": "no", "location": "left entrance" },
+ { "id": "4", "name": "bujor", "species": "paeonia pregrina", "type": "magnoliophyta", "carnivorous": "no", "endangered": "yes", "location": "center" },
+ { "id": "5", "name": "garofita", "species": "dianthus callizonus", "type": "magnoliophyta", "carnivorous": "no", "endangered": "yes", "location": "right entrance" },
+ { "id": "6", "name": "ginkgo biloba", "species": "ginkgo biloba", "type": "gymnospermae", "carnivorous": "no", "endangered": "no", "location": "back area" },
+ { "id": "7", "name": "pin", "species": "pinus pinea", "type": "gymnospermae", "carnivorous": "no", "endangered": "no", "location": "left entrance" },
+ { "id": "8", "name": "stejar", "species": "quercus alba", "type": "angiospermae", "carnivorous": "no", "endangered": "yes", "location": "right entrance" },
+ { "id": "9", "name": "salcie", "species": "salix triandra", "type": "angiospermae", "carnivorous": "no", "endangered": "no", "location": "back area" }
+]
