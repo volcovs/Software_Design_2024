@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <object>
+    <id>1</id>
+    <name>lalea</name>
+    <species>tulipa gesneriana</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>right entrance</location>
+  </object>
+  <object>
+    <id>2</id>
+    <name>trandafir</name>
+    <species>rosa chinensis</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>left entrance</location>
+  </object>
+  <object>
+    <id>3</id>
+    <name>capcana lui Venus</name>
+    <species>dionaea muscipula</species>
+    <type>magnoliophyta</type>
+    <carnivorous>yes</carnivorous>
+    <endangered>no</endangered>
+    <location>left entrance</location>
+  </object>
+  <object>
+    <id>4</id>
+    <name>bujor</name>
+    <species>paeonia pregrina</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>yes</endangered>
+    <location>center</location>
+  </object>
+  <object>
+    <id>5</id>
+    <name>garofita</name>
+    <species>dianthus callizonus</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>yes</endangered>
+    <location>right entrance</location>
+  </object>
+  <object>
+    <id>6</id>
+    <name>ginkgo biloba</name>
+    <species>ginkgo biloba</species>
+    <type>gymnospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>back area</location>
+  </object>
+  <object>
+    <id>7</id>
+    <name>pin</name>
+    <species>pinus pinea</species>
+    <type>gymnospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>left entrance</location>
+  </object>
+  <object>
+    <id>8</id>
+    <name>stejar</name>
+    <species>quercus alba</species>
+    <type>angiospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>yes</endangered>
+    <location>right entrance</location>
+  </object>
+  <object>
+    <id>9</id>
+    <name>salcie</name>
+    <species>salix triandra</species>
+    <type>angiospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>back area</location>
+  </object>
+  <object>
+    <id>10</id>
+    <name>lalea</name>
+    <species>tulipa gesneriana</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>right entrance</location>
+  </object>
+  <object>
+    <id>11</id>
+    <name>trandafir</name>
+    <species>rosa chinensis</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>left entrance</location>
+  </object>
+  <object>
+    <id>12</id>
+    <name>capcana lui Venus</name>
+    <species>dionaea muscipula</species>
+    <type>magnoliophyta</type>
+    <carnivorous>yes</carnivorous>
+    <endangered>no</endangered>
+    <location>left entrance</location>
+  </object>
+  <object>
+    <id>13</id>
+    <name>bujor</name>
+    <species>paeonia pregrina</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>yes</endangered>
+    <location>center</location>
+  </object>
+  <object>
+    <id>14</id>
+    <name>garofita</name>
+    <species>dianthus callizonus</species>
+    <type>magnoliophyta</type>
+    <carnivorous>no</carnivorous>
+    <endangered>yes</endangered>
+    <location>right entrance</location>
+  </object>
+  <object>
+    <id>15</id>
+    <name>ginkgo biloba</name>
+    <species>ginkgo biloba</species>
+    <type>gymnospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>back area</location>
+  </object>
+  <object>
+    <id>16</id>
+    <name>pin</name>
+    <species>pinus pinea</species>
+    <type>gymnospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>left entrance</location>
+  </object>
+  <object>
+    <id>17</id>
+    <name>stejar</name>
+    <species>quercus alba</species>
+    <type>angiospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>yes</endangered>
+    <location>right entrance</location>
+  </object>
+  <object>
+    <id>18</id>
+    <name>salcie</name>
+    <species>salix triandra</species>
+    <type>angiospermae</type>
+    <carnivorous>no</carnivorous>
+    <endangered>no</endangered>
+    <location>back area</location>
+  </object>
+</data>
